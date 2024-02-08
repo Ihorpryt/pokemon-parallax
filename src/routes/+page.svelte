@@ -61,7 +61,7 @@
     }
     .clouds {
         width: 100%;
-        --parallax-speed: -0.3;
+        --parallax-speed: -0.1;
     }
     .mountains {
         width: 100%;
@@ -77,9 +77,9 @@
     }
     .text {
         max-width: 700px;
-        --parallax-speed: -3.5;
+        --parallax-speed: -3.2;
         position: absolute;
-        margin-top: 400px;
+        margin-top: 300px;
         color: white;
         display: flex;
         flex-direction: column;
