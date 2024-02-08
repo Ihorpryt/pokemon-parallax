@@ -22,8 +22,9 @@
             <h4>what is</h4>
             <h1>Pokémon</h1>
             </div>
-            <p>The Star Wars universe spans countless planets and epochs, teeming with diverse alien species and cultures. A constant struggle burns between the light side of the Force, wielded by the Jedi Knights, and the dark side, embodied by the Sith. Droids, smugglers, bounty hunters, and iconic heroes like Luke Skywalker and Leia Organa navigate constant struggle for balance in the Force.</p>
-            <p>Heroes rise from humble beginnings, wielding lightsabers and piloting starships in epic battles for freedom against tyrannical empires. It's a universe rich in adventure, mythology, and timeless themes of good versus evil.</p>
+            <p>Pokémon is a popular multimedia franchise created by Nintendo, Game Freak, and Creatures. It revolves around fictional creatures called Pokémon, which humans, known as Pokémon Trainers, catch and train to battle each other for sport. The franchise includes video games, trading card games, animated television series, movies, toys, and various other merchandise.</p>
+            <p>
+                In the Pokémon world, Trainers embark on adventures to become Pokémon Masters, aiming to catch and train as many different species of Pokémon as possible. The series has become a cultural phenomenon, capturing the hearts of millions of fans worldwide since its debut in 1996.</p>
         </div>
 
     </div>
